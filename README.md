@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bilguutei Myagmar
 
-**Billguutei/Billguutei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- **Billguutei/Billguutei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <a href="https://www.linkedin.com/in/bilguutei-myagmar-0a48721a6/">
   <img align="left" alt="Bill's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
